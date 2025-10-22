@@ -8,4 +8,4 @@ title: OA Hope Podcasts (WordPress plugin)
 Links
 
 - Source: [GitHub](https://github.com/spearheadmorrow/oahope-fs-podcasts)
-- [Live Site](https://oafootsteps.org/podcasts)
+- [Live Site](https://oafootsteps.com/podcasts)
