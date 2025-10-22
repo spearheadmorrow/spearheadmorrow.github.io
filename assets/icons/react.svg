@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="24" height="24" role="img" aria-label="React">
+    <g fill="#61dafb">
+        <circle cx="128" cy="128" r="20" />
+        <path
+            d="M128 20c40 0 90 30 120 60s60 80 60 120-30 90-60 120S168 492 128 492 38 462 8 432  -12 360 -12 320 18 230 48 200 88 20 128 20z"
+            opacity="0.15" />
+    </g>
+    <g fill="#0b63a8">
+        <circle cx="128" cy="128" r="20" />
+        <path d="M128 32c48 0 96 40 128 72s-40 80-72 112S176 224 128 224 64 192 32 160 80 32 128 32z" opacity="0.12" />
+    </g>
+</svg>
